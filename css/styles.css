@@ -3,3 +3,21 @@
 }*/
 
 /* Comment goes here */
+form div {
+	margin-bottom: 10px;
+}
+
+label {
+	width: 120px;
+	display: inline-block;
+}
+
+#post {
+	width: 100px;
+	min-width: 50px;
+	min-height: 50px;
+	height: 50px;
+	max-width: 300px;
+	max-height: 150px;
+	font-family: Arial;
+}
